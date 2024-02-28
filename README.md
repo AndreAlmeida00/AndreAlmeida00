@@ -14,6 +14,8 @@
   <img align = "center" alt = "Andre-SQL" heigth = "40" width ="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
 </div>
 
+##
+
 <div>
   <a href = "https://www.linkedin.com/in/andre-luiz-de-almeida-8077311a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:andrealmeida0107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
