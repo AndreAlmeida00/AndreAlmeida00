@@ -1,7 +1,7 @@
 ## Olá, sou o André Luiz de Almeida ✌️
 <div>
-  <img height ="280em" src = "https://github-readme-stats.vercel.app/api?username=AndreAlmeida00&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true"/>
-  <img height ="280em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAlmeida00"/>
+  <img height ="240em" src = "https://github-readme-stats.vercel.app/api?username=AndreAlmeida00&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true"/>
+  <img height ="240em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAlmeida00"/>
 </div>
 
 ##
@@ -19,5 +19,3 @@
   <a href = "mailto:andrealmeida0107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5547996340407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-[!snake animation](AndreAlmeida00)
